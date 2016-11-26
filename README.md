@@ -73,6 +73,7 @@ Then, in your `.travis.yml` file, add:
 after_script:
   - |
 
+      set +e
       declare exitCode;
 
 
@@ -136,6 +137,7 @@ In your `.travis.yml` file add:
 after_script:
   - |
 
+      set +e
       declare exitCode
 
 
