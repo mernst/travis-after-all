@@ -1,5 +1,8 @@
 # travis-after-all
 
+This script is now obsolete; use the Travis "build stages" feature instead.
+See https://docs.travis-ci.com/user/build-stages .
+
 [![Build Status](https://travis-ci.org/alrra/travis-after-all.svg?branch=master)](https://travis-ci.org/alrra/travis-after-all)
 [![devDependency Status](https://david-dm.org/alrra/travis-after-all/dev-status.svg)](https://david-dm.org/alrra/travis-after-all#info=devDependencies)
 
