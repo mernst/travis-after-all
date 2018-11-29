@@ -73,5 +73,3 @@ matrix:
 
 notifications:
   email: false
-
-sudo: false
